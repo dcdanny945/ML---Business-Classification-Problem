@@ -19,8 +19,7 @@ system currently misses.
 
 ## Workflow
 Data cleansing (missing values handled by distribution: skewed numerical
-features imputed with median, categorical features with mode; columns with
->50% missing dropped to avoid introducing noise from over-imputation)
+features imputed with median, categorical features with mode; columns with > 50% missing dropped to avoid introducing noise from over-imputation)
 → EDA (univariate / bivariate / multivariate; correlation analysis for
 numerical features, Chi-Square tests for categorical features)
 → encoding & transformation (ordinal / dummy coding) → imbalance handling
