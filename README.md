@@ -27,7 +27,8 @@ features imputed with median, categorical features with mode; columns with > 50%
 
 → model training & tuning (GridSearchCV, cost-complexity pruning)
 
-→ 5-fold CV → evaluation for two models → K-Means clustering
+→ 5-fold CV → evaluation for two models 
+→ K-Means clustering
 
 
 ## Tech
