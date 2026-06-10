@@ -20,11 +20,11 @@ system currently misses.
 ## Workflow
 Data cleansing (missing values handled by distribution: skewed numerical
 features imputed with median, categorical features with mode; columns with > 50% missing dropped to avoid introducing noise from over-imputation)
-→ EDA (univariate / bivariate / multivariate; correlation analysis for
-numerical features, Chi-Square tests for categorical features)
+
+→ EDA (univariate / bivariate / multivariate; correlation analysis for numerical features, Chi-Square tests for categorical features)
 → encoding & transformation (ordinal / dummy coding) → imbalance handling
 → model training & tuning (GridSearchCV, cost-complexity pruning)
-→ 5-fold CV → evaluation for two models → K-Means clustering.
+→ 5-fold CV → evaluation for two models → K-Means clustering
 
 
 ## Tech
