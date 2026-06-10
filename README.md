@@ -1,5 +1,5 @@
 # ML---Business-Classification-Problem
-Supervised &amp; unsupervised ML on insurance data. Predicting high-value claims with Decision Tree &amp; Random Forest, plus K-Means clustering for policyholder segments.
+Supervised &amp; unsupervised ML on insurance data. Classifying applicants as high or low claim with Decision Tree & Random Forest, plus K-Means policyholder segmentation.
 
 # HealthShield Insurance — High Claim Prediction & Policyholder Segmentation
 
